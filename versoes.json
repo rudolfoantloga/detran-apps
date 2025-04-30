@@ -1,22 +1,22 @@
 {
   "JuntarPDFs": {
     "version": "1.0.0",
-    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/PDFMERGE.exe"
+    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/PDFMERGE.zip"
   },
   "Liberacaoveiculos": {
     "version": "1.0.0",
-    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/liberacao.exe"
+    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/liberacao.zip"
   },
   "AutorizaVIS": {
     "version": "1.0.0",
-    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/AutorizaVIS.exe"
+    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/AutorizaVIS.zip"
   },
   "CredenciaisEstacionamento": {
     "version": "1.0.0",
-    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/Credenciais.exe"
+    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/Credenciais.zip"
   },
   "TransporteEscolar": {
     "version": "1.0.0",
-    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/TranspEscolar.exe"
+    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/TranspEscolar.zip"
   }
 }
