@@ -13,10 +13,10 @@
   },
   "CredenciaisEstacionamento": {
     "version": "2.5.0",
-    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/Credenciais.zip"
+    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v2.5.0/Credenciais.zip"
   },
   "TransporteEscolar": {
     "version": "2.5.0",
-    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v1.0.0/TranspEscolar.zip"
+    "url": "https://github.com/rudolfoantloga/detran-apps/releases/download/v2.5.0/TranspEscolar.zip"
   }
 }
